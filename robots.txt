@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /.git
 Allow: /
 
 Sitemap: sitemap.xml
